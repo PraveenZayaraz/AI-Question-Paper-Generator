@@ -1,0 +1,13 @@
+INTRODUCTION TO COMPUTER NETWORKS (sample syllabus)
+
+UNIT I - FOUNDATIONS (9 Hours)
+Layered architecture - OSI reference model - TCP/IP model - Transmission media
+
+UNIT II - DATA LINK LAYER (9 Hours)
+Framing - Error detection with CRC - Sliding window protocols - Medium access control
+
+UNIT III - NETWORK AND TRANSPORT LAYERS (9 Hours)
+IPv4 addressing - Routing algorithms - Congestion control - TCP connection management
+
+TEXT BOOKS
+1. Any introductory networking textbook.
