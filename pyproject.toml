@@ -1,0 +1,12 @@
+[project]
+name = "qpg"
+version = "2.0.0"
+description = "Syllabus-aligned exam question generation with retrieval-augmented generation"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
